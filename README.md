@@ -19,3 +19,9 @@ A simple JavaScript-based Todo App to practice DOM manipulation, events, and loc
 
 
 ## 📂 Project Structure
+todo-app/
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+└── .gitignore
