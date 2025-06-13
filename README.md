@@ -14,6 +14,8 @@ A simple JavaScript-based Todo App to practice DOM manipulation, events, and loc
 - JavaScript (Vanilla)
 
 ## 📸 Preview
-![screenshot](screenshot.png) <!-- Add one later if you'd like -->
+![image](https://github.com/user-attachments/assets/ed592870-fb55-4a1e-88cd-6a2b3291e386)
+![image](https://github.com/user-attachments/assets/c68e6582-e4da-4887-8bb2-4263efc16a17)
+
 
 ## 📂 Project Structure
